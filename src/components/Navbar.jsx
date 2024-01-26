@@ -2,8 +2,8 @@ import React from 'react';
 import { logo } from "../assets/index";
 const Navbar = () => {
   return (
-  <div className="bg-white lex items-center justify-between mx-auto ">
-    <div className="relative w-[1080px] h-[60px] mx-auto flex items-center justify-between ">
+  <div className=" bg-opacity-0 lex items-center justify-between mx-auto ">
+    <div className="relative w-[1240px] h-[60px] mx-auto flex items-center justify-between ">
 
         <a href="/" className="cursor-pointer py-7 pr-7">
             <img

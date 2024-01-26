@@ -1,4 +1,4 @@
 import logo from "./Landielogo.png";
-
-
-export { logo };
+import cloud from "./PathbgCloud.png"
+import heroImg from "./Grouphero.png"
+export { logo, cloud , heroImg};

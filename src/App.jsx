@@ -10,7 +10,7 @@ function App() {
   
 
   return (
-    <>
+    <div>
        
       <Navbar />
       <Hero />
@@ -18,7 +18,7 @@ function App() {
       <Price/>
       <Footer />
     
-    </>
+    </div>
   )
 }
 
