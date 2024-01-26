@@ -3,7 +3,32 @@ import React from 'react'
 const Hero = () => {
   return (
     <div>
-      Hero
+      Hero <br/>
+      Hero <br/>
+      Hero <br/>
+      Hero <br/>
+      Hero <br/>
+      Hero <br/>
+      Hero <br/>
+      Hero <br/>
+      Hero <br/>
+      Hero <br/>
+      Hero <br/>
+      Hero <br/>
+      Hero <br/>
+      Hero <br/>
+      Hero <br/>
+      Hero <br/>
+      Hero <br/>
+      Hero <br/>
+      Hero <br/>
+      Hero <br/>
+      Hero <br/>
+      Hero <br/>
+      Hero <br/>
+      Hero <br/>
+      Hero <br/>
+      Hero <br/>
     </div>
   )
 }
