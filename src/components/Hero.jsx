@@ -5,8 +5,8 @@ const Hero = () => {
   <div className="relative w-[1240px]  ">
     <div className="w-full  flex sm:flex-col lg:flex-row justify-between bg-hero bg-no-repeat bg-auto bg-right-top items-center mx-auto pr-4 mr-8 mt-[-10]">
         <div className='w-6/12'>
-            <h1 className="font-Roboto font-bold text-[40px] leading-[1.2] text-[#091133]">Introduce Your Product Quickly & Effectively</h1>
-            <p className="font-Roboto text-[18px] leading-7 text-[#505F98] opacity-70">
+            <h1 className="font-Roboto text-left font-bold text-[40px] leading-[1.2] text-[#091133]">Introduce Your Product Quickly & Effectively</h1>
+            <p className="font-Roboto text-[18px] text-left leading-7 text-[#505F98] opacity-70">
             Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.
              Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculusmus. <br/> Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
             </p>
