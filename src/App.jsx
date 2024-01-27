@@ -10,7 +10,7 @@ function App() {
   
 
   return (
-    <div>
+    <div className='-my-8'>
        
       <Navbar />
       <Hero />
