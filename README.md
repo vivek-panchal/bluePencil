@@ -1,8 +1,29 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Framework :- 
+React & TailwindCSS
 
-Currently, two official plugins are available:
+## Challanges 
+I found difficulty in CSS to align image and item perfectly 
+i already made many clones & landing pages so i dont fount any difficulty in this , this project similar like Razorpay & Discord lamding page clone 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Advice 
+Run this project on local server becuase 2 images not working after deployment 
+Reason :- I try something new in this project , I put 2 images in tailwind config file and use them in components 
+
+## How to run on local host 
+
+Open your terminal and then type
+
+git clone https://github.com/vivek-panchal/bluePencil
+
+This clones the repo
+
+cd into the new folder and type
+
+$ npm install
+
+This installs the required dependencies
+
+To run the React project.
+$ npm run dev
