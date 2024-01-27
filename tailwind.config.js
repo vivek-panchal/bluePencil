@@ -8,6 +8,7 @@ export default {
     extend: {
       backgroundImage: {
         'hero': "url('./src/assets/PathbgCloud.png')",
+        'price': "url('./src/assets/rectangle.png')",
         'footer-texture': "url('/img/footer-texture.png')",
       }
     },

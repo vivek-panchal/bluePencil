@@ -40,6 +40,61 @@ const Content = () => {
           <img src={content1} alt="" />
         </div>
       </div>
+      <div className="flex container w-[1200px] mx-auto 
+      items-center">
+        <div className="object-right-bottom object-cover my-10 w-[8/12]">
+          <img src={content2} alt="" />
+        </div>
+        <div className="w-6/12 right-20">
+          
+          <h1 className="font-Roboto font-bold ml-20 text-left text-[40px] leading-[1.8] text-[#091133]">Light, Fast & Powerful</h1>
+          <p className="font-Roboto text-[18px] ml-20 text-left leading-7 text-[#505F98] opacity-70">
+          Lorem ipsum dolor sit amet, consectetuer adipiscing <br/> elit. Aenean commodo ligula eget dolor. Aenean <br/> massa. Cum sociis natoque penatibus et magnis dis  parturient, nascetur <br/> 
+          mus. Donec quam felis, ultricies nec, pellentesque eu, <br/> quis, sem. Nulla consequat massa quis enim.
+          </p>
+          
+        </div>
+      </div>
+      <div className="flex container w-[1200px] mx-auto 
+      items-center">
+        
+        <div className="w-6/12">
+          
+          <h1 className="font-Roboto font-bold text-left text-[40px] leading-[1.8] text-[#091133]">Light, Fast & Powerful</h1>
+            <p className="font-Roboto text-[18px] text-left leading-7 text-[#505F98] opacity-70">
+            Lorem ipsum dolor sit amet, consectetuer adipiscing <br/> elit. Aenean commodo ligula eget dolor. Aenean <br/> massa. Cum sociis natoque penatibus et magnis dis  parturient, nascetur <br/> 
+            mus. Donec quam felis, ultricies nec, pellentesque eu, <br/> quis, sem. Nulla consequat massa quis enim.
+            </p>
+
+        </div>
+         
+        <div className="object-right-bottom object-cover my-10 w-[5/6]">
+          <img src={content3} alt="" />
+        </div>
+      </div>
+      <div className="flex container w-[1200px] mx-auto 
+      items-center">
+        <div className="object-right-bottom object-cover my-10 w-[5/6]">
+          <img src={content4} alt="" />
+        </div>
+        <div className="w-6/12 ml-20">
+          
+          <h1 className="font-Roboto font-bold text-left text-[40px] ml-20 leading-[1.8] text-[#091133]">Light, Fast & Powerful</h1>
+            <p className="font-Roboto text-[18px] text-left ml-20 leading-7 text-[#505F98] opacity-70">
+            Lorem ipsum dolor sit amet, consectetuer adipiscing <br/> elit. Aenean commodo ligula eget dolor. Aenean <br/> massa. Cum sociis natoque penatibus et magnis dis  parturient, nascetur <br/> 
+            mus. Donec quam felis, ultricies nec, pellentesque eu, <br/> quis, sem. Nulla consequat massa quis enim.
+            </p>
+
+            <button
+            className="bg-[#111B47] text-white mr-20 my-5 py-[14px] px-[18px] rounded-md  font-mullish font-bold
+            "
+            >Purchase Now</button>
+            
+        </div>
+         
+        
+      </div>
+      
     </div>
   )
 }

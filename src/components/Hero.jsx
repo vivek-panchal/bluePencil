@@ -11,13 +11,13 @@ const Hero = () => {
              Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculusmus. <br/> Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
             </p>
             <button
-            className="bg-[#111B47] text-white mx-5 my-5 py-[14px] px-[18px] rounded-md font-mullish font-bold
+            className="bg-[#111B47] text-white mr-5 my-5 py-[14px] px-[18px] rounded-md content-start font-mullish font-bold
             "
             >Purchase UI Kit</button>
             <button
-            className=" text-[#111B47] mx-5 py-[14px] px-[18px] rounded-md font-mullish font-bold border-black
+            className=" text-[#111B47] mx-5 py-[12px] px-[18px] rounded-md font-mullish font-bold  border-2 border-slate-900
             "
-            >Purchase UI Kit</button>
+            >Learn More</button>
         </div>
 
           <img src={heroImg} width="480px" height="480px" className='mt-5 mr-[-15px]'/>
